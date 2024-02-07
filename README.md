@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aenaumov
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m JAVA developer
 
 - 📫 How to reach me a.e.naumov@yandex.ru
 
